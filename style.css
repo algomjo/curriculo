@@ -1,0 +1,16 @@
+h1{
+    font: bold;
+}
+span{
+    color: blue;
+}
+div{
+    border: solid 1px;
+    height: 100px;
+}
+div[id="dados"]{
+    background-color: cyan;
+}
+div[id="Experiencia"]{
+    background-color: darkgrey;
+}
